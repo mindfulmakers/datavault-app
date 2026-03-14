@@ -1,0 +1,14 @@
+{
+  "template": "react-app",
+  "name_snake": "datavault_app_react",
+  "name_pretty": "Datavault App React",
+  "variables": {
+    "apps": "\"datavault_app_api.datavault_app\"",
+    "name_snake": "datavault_app",
+    "parent_package_name": "datavault_app_api",
+    "api_prefix": "api/datavault_app",
+    "name_pretty": "Datavault App",
+    "github_user": "montaguegabe",
+    "marketing_description": "Built with Openbase"
+  }
+}

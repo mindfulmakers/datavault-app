@@ -13,14 +13,6 @@ ruff.toml
 CLAUDE.md
 
 # Ignore repository directories
-web/
-web
-datavault-app-api/
-datavault-app-api
-datavault-app-react/
-datavault-app-react
-react-shared/
-react-shared
 
 # Generated
 AGENTS.md

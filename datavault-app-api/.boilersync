@@ -1,0 +1,12 @@
+{
+  "template": "app-package",
+  "name_snake": "datavault_app_api",
+  "name_pretty": "Datavault App Api",
+  "variables": {
+    "apps": "\"datavault_app_api.datavault_app\"",
+    "name_snake": "datavault_app_api"
+  },
+  "children": [
+    "datavault_app_api/datavault_app"
+  ]
+}
