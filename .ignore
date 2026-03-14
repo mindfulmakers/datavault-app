@@ -1,0 +1,9 @@
+# Allow us to search inside these gitignored directories
+!web/
+!web
+!datavault-app-api/
+!datavault-app-api
+!datavault-app-react/
+!datavault-app-react
+!react-shared/
+!react-shared

@@ -1,0 +1,26 @@
+
+.env
+data/
+.claude/settings.local.json
+.DS_Store
+
+# Generated files
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/extensions.json
+ruff.toml
+CLAUDE.md
+
+# Ignore repository directories
+web/
+web
+datavault-app-api/
+datavault-app-api
+datavault-app-react/
+datavault-app-react
+react-shared/
+react-shared
+
+# Generated
+AGENTS.md

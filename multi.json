@@ -1,0 +1,16 @@
+{
+  "repos": [
+    {
+      "url": "https://github.com/openbase-community/web"
+    },
+    {
+      "url": "https://github.com/montaguegabe/datavault-app-api"
+    },
+    {
+      "url": "https://github.com/montaguegabe/datavault-app-react"
+    },
+    {
+      "url": "https://github.com/openbase-community/react-shared"
+    }
+  ]
+}

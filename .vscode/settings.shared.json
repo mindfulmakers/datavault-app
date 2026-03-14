@@ -1,0 +1,3 @@
+{
+  "reloadFlags": "--reload-dir ${workspaceFolder}/datavault-app-api"
+}
