@@ -1,0 +1,11 @@
+{
+  "template": "django-app",
+  "name_snake": "datavault_app",
+  "name_pretty": "Datavault App",
+  "variables": {
+    "apps": "\"datavault_app_api.datavault_app\"",
+    "name_snake": "datavault_app",
+    "parent_package_name": "datavault_app_api",
+    "api_prefix": "api/datavault_app"
+  }
+}
